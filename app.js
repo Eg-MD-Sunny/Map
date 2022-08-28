@@ -1,3 +1,7 @@
+//---Syntex
+// array.map(function(currentValue, index, arr), thisValue)
+
+
 //---Example 01
 
 const arr = [4,9,16,25];
